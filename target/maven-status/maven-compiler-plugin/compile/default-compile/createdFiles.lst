@@ -1,0 +1,14 @@
+com/parameta/soap/ObjectFactory.class
+com/parameta/soap/CreateEmployeeResponse.class
+com/parameta/employee/rest/employee/Employee.class
+com/parameta/employee/soap/config/WebServiceConfig.class
+com/parameta/soap/Employee.class
+com/parameta/employee/soap/EmployeeEndpoint.class
+com/parameta/soap/CreateEmployeeRequest.class
+com/parameta/employee/rest/employee/DTOEmployee.class
+com/parameta/soap/package-info.class
+com/parameta/employee/rest/employee/EmployeeRepository.class
+com/parameta/employee/rest/employee/EmployeeController.class
+com/parameta/soap/Status.class
+com/parameta/employee/rest/config/GlobalExceptionHandler.class
+com/parameta/employee/EmployeeApplication.class
